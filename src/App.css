@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* Cards */
+
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 2em;
+  margin: 0.5em;
+}
+
+.create-form {
+  height: 1em;
+  display: flex;
+  align-items: center;
+}
+
+.create-input {
+  height: inherit;
+  padding: 0;
+  border: none;
+}
+
+.create-button {
+  background-color: #00695c;
+  color: white;
+  padding: 0 2em;
+  border: none;
+  outline: none;
+  height: inherit;
+}
+
+.name {
+  background-color: #37474f;
+  color: white;
+  height: 100%;
+  padding: 0 2em;
+  border: none;
+  outline: none;
+}
+
+.delete {
+  background-color: #c62828;
+  color: white;
+  height: inherit;
+  padding: 0 1em;
+  border: none;
+  outline: none;
+}
+
+.delete-form {
+  height: 100%;
+}
+
+.edit-form {
+  height: 1em;
+  display: flex;
+  align-items: center;
+}
+
+.edit-input {
+  height: inherit;
+  padding: 0;
+  border: none;
+}
+
+.edit-button {
+  background-color: #00695c;
+  color: white;
+  padding: 0 2em;
+  border: none;
+  outline: none;
+  height: inherit;
+}
