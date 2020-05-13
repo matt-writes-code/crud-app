@@ -1,3 +1,11 @@
+## CRUD App
+
+React frontend with a mini json-server [database](https://my-json-server-db.herokuapp.com/data).
+
+[HTTP methods guide](https://jsonplaceholder.typicode.com/guide.html).
+
+## CRA
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
